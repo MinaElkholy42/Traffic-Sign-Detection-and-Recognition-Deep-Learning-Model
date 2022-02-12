@@ -3,6 +3,8 @@ Deep Learning model for Self-Driving Cars to reduce accidents with high accuracy
 
 Using in the development Keras, TensorFlow, python, jupyter notebooks, deep learning, and computer vision techniques.
 
+Accuracy in the detection is 93% and in the classification is 99.2%.
+
 System for assisting the drivers to avoid accidents are becoming more and more important as the number of vehicles on road is on an exponential increase.
 Advanced driver assistant systems is being effectively used in automobiles for providing lane keep assistance, forward collision warning, pedestrian warning driver drowsiness
 detection traffic sign assist system etc. These form essential systems in autonomous cars for contextual awareness and road attribute mapping
